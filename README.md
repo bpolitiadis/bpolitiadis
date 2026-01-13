@@ -1,16 +1,14 @@
 # `Vasileios Politeiadis`
 
-> *Automation Architect & Creative Technologist*
-
-I spend half my time ensuring systems are stable (QA/Automation) and the other half trying to break them with new tech (Experimental Dev). Currently obsessed with **Agentic AI**, **Performance Engineering**, and **Generative Art**.
+*QA Automation Engineer & Full-stack Developer*
 
 ---
 
 ### `// CURRENT_STATUS`
 
-- 🔭 **Building:** [vpoliteiadis.com](https://vpoliteiadis.com) (Astro 5 + React Islands)
-- 🎨 **Creating:** [Arte Imaginari](https://instagram.com/arte.imaginari) (AI Art & Visual Experiments)
-- 🤸‍♂️ **Moving:** [Casa Capoeira](https://casacapoeira.org) (Community & Movement)
+- 🔭 **Personal Website:** [vpoliteiadis.com](https://vpoliteiadis.com) (Astro 5 + React Islands)
+- 🎨 **Generative AI art:** [Arte Imaginari](https://instagram.com/arte.imaginari) (AI Art & Visual Experiments)
+- 🤸‍♂️ **Noteable Project:** [Casa Capoeira](https://casacapoeira.org) (Custom CMS and community portal)
 
 ### `// TECH_STACK`
 
