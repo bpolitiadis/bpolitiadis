@@ -6,7 +6,7 @@
 
 ### `// CURRENT_STATUS`
 
-- 🔭 **Personal Website:** [vpoliteiadis.com](https://vpoliteiadis.com) (Astro 5 + React Islands)
+- 🔭 **Personal Website:** [vpoliteiadis.com](https://vpoliteiadis.dev) (Astro 5 + React Islands)
 - 🎨 **Generative AI art:** [Arte Imaginari](https://instagram.com/arte.imaginari) (AI Art & Visual Experiments)
 - 🤸‍♂️ **Noteable Project:** [Casa Capoeira](https://casacapoeira.org) (Custom CMS and community portal)
 
